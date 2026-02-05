@@ -12,6 +12,10 @@ My name is Chris, and I am the CEO at TechBox. I was born in Washington, D.C. an
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## ⚠️ IAM Projects
+
+- **[Intune Compliance and Configuration Implementation](https://github.com/chrisburg-cyber-intense/vulnerability-management-program)**
+
 <hr/>
 
 ## 🤳 Connect With Me
