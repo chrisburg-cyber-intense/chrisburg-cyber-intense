@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/chris-burg-techbox/">Chris Burg</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/chris-burg-techbox/">Chris Burg</a>'s IT and Cybersecurity Project Portfolio
 
 My name is Chris, and I am the CEO at TechBox. I was born in Washington, D.C. and raised in Northern Virginia, and I currently reside in Culpeper, Virginia, where I have lived most of my life. I earned an Associate’s Degree in Arts and Sciences from Lord Fairfax Community College (now Laurel Ridge Community College). I have a strong passion for technology, problem-solving, completing tasks, and continuous learning, complemented by personal interests in music, fitness, and board games. I play the violin, enjoy strength training, and spend most of my time with my family. I have traveled extensively both internationally and throughout the United States, experiences that have broadened my perspective and adaptability. Professionally, I value growth, integrity, and community engagement, and I am motivated by opportunities to leverage technology to help others.
 
