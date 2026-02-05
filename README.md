@@ -5,14 +5,14 @@ My name is Chris, and I am the CEO at TechBox. I was born in Washington, D.C. an
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/chrisburg-cyber-intense/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
-## ⚠️ IAM Projects
+## 🔐 IAM Projects
 
 - **[Intune Compliance and Configuration Implementation](https://github.com/chrisburg-cyber-intense/vulnerability-management-program)**
 
